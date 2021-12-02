@@ -1,3 +1,7 @@
+# Aux camera
+vendor.camera.aux.packageexcludelist   u:object_r:exported_system_prop:s0
+vendor.camera.aux.packagelist          u:object_r:exported_system_prop:s0
+
 persist.wfd.legacy.video.mode u:object_r:wfd_legacy_video_mode_prop:s0
 
 # Recovery update

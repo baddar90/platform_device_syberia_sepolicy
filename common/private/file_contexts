@@ -24,8 +24,5 @@
 # Sysinit
 /system/bin/sysinit                     u:object_r:sysinit_exec:s0
 
-# SmartCharge HAL
-/system/bin/hw/vendor\.syberia\.smartcharge@1\.0-service    u:object_r:hal_syberia_smartcharge_default_exec:s0
-
 # Bash
 /system/xbin/bash          u:object_r:shell_exec:s0
